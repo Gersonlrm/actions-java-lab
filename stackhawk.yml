@@ -1,5 +1,5 @@
 app:
-  applicationId: d0cfd468-e364-476b-b3a1-1c67b289bcba
+  applicationId: 1feadaa1-3e06-481b-8890-174aa9052712
   env: Development
   host: http://localhost:10010
 tags:
